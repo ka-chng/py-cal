@@ -1,2 +1,2 @@
 # pyhton-calculator-s-
-multiple python calculators
+smart calculator except its not smart 
